@@ -42,7 +42,7 @@ const ProfileCard = () => {
           <div className="flex-1 pt-1">
             <p className="text-muted-foreground text-sm mb-1">Olá, eu sou</p>
             <h1 className="text-2xl font-bold text-primary mb-3">
-              Klevison Da Silva Ferreira
+              Klevison Ferreira
             </h1>
 
             <div className="space-y-1.5 text-sm text-muted-foreground">
