@@ -107,6 +107,7 @@ const ProfileCard = () => {
             <AccordionContent className="pb-4">
               <ul className="space-y-2 text-muted-foreground">
                 <li>Português - Nativo</li>
+                <li>Inglês - básico</li>
               </ul>
             </AccordionContent>
           </AccordionItem>
